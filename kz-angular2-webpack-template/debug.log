@@ -1,0 +1,6 @@
+[0521/121445.528:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: O comprimento do registro de informações especificado não coincide com o comprimento necessário à classe de informações especificada. (0xc0000004)
+[0521/121445.988:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: O comprimento do registro de informações especificado não coincide com o comprimento necessário à classe de informações especificada. (0xc0000004)
+[0521/121446.382:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: O comprimento do registro de informações especificado não coincide com o comprimento necessário à classe de informações especificada. (0xc0000004)
+[0521/121446.438:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0521/121446.856:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: O comprimento do registro de informações especificado não coincide com o comprimento necessário à classe de informações especificada. (0xc0000004)
+[0521/121448.671:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: O comprimento do registro de informações especificado não coincide com o comprimento necessário à classe de informações especificada. (0xc0000004)
